@@ -1,6 +1,6 @@
 # Hi there, i'm Leonardo Novaes 👋
 
-#### Hello! I am a Software Engineering student and lover of technology. At the end of 2023, I finished my high school education at Senac and in 2024 I will start my degree at FIAP. Looking for my first opportunity in the area and I intend to share this path here.
+#### Hello! I am a Software Engineering student and lover of technology. At the end of 2023, I finished my high school education at Senac and in 2024 I will start my graduation at FIAP. Looking for my first opportunity in the area and I intend to share this path here.
 
 ![Leonardo Novaes GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonnovaes&show_icons=true&theme=radical)
 
